@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Application\\CarBook.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Application\\CarBook.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Application\\CarBook.Application.csproj",
+        "projectName": "CarBook.Application",
+        "projectPath": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Application\\CarBook.Application.csproj",
+        "packagesPath": "C:\\Users\\Ertugrul\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ertugrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {
+                "projectPath": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj",
+        "projectName": "CarBook.Domain",
+        "projectPath": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ertugrul\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ertugrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
