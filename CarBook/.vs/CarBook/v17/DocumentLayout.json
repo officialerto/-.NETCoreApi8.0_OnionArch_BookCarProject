@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFC8EB-89A9-4475-BC4A-13968639A684}|Core\\CarBook.Application\\CarBook.Application.csproj|d:\\github\\-.netcoreapi8.0_onionarch_bookcarproject\\carbook\\core\\carbook.application\\features\\mediator\\handlers\\footeraddresshandlers\\createfooteraddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFC8EB-89A9-4475-BC4A-13968639A684}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\handlers\\footeraddresshandlers\\createfooteraddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateFooterAddressCommandHandler.cs",
+              "DocumentMoniker": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\FooterAddressHandlers\\CreateFooterAddressCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\FooterAddressHandlers\\CreateFooterAddressCommandHandler.cs",
+              "ToolTip": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\FooterAddressHandlers\\CreateFooterAddressCommandHandler.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\FooterAddressHandlers\\CreateFooterAddressCommandHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAtwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:36:22.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
