@@ -79,3 +79,4 @@ D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Presentation\CarBook.
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Presentation\CarBook.WebApi\obj\Debug\net8.0\ref\CarBook.WebApi.dll
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Presentation\CarBook.WebApi\bin\Debug\net8.0\CarBook.Application.dll
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Presentation\CarBook.WebApi\bin\Debug\net8.0\CarBook.Application.pdb
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Presentation\CarBook.WebApi\obj\Debug\net8.0\CarBook.WebApi.sourcelink.json

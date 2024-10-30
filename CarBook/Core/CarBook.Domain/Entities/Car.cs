@@ -15,6 +15,7 @@ namespace CarBook.Domain.Entities
         public byte Seat { get; set; }
         public byte Luggage { get; set; }
         public string Fuel { get; set; }
+        public int Km { get; set; }
         public string BigImageUrl { get; set; }
 
         public int BrandID { get; set; }

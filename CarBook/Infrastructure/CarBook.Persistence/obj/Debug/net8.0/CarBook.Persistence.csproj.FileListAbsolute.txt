@@ -17,3 +17,4 @@ D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Infrastructure\CarBoo
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Infrastructure\CarBook.Persistence\obj\Debug\net8.0\ref\CarBook.Persistence.dll
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Infrastructure\CarBook.Persistence\bin\Debug\net8.0\CarBook.Application.dll
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Infrastructure\CarBook.Persistence\bin\Debug\net8.0\CarBook.Application.pdb
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Infrastructure\CarBook.Persistence\obj\Debug\net8.0\CarBook.Persistence.sourcelink.json
