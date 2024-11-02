@@ -19,9 +19,15 @@ namespace CarBook.Application.Features.Mediator.Handlers.FooterAddressHandlers
             _repository = repository;
         }
 
-        public Task Handle(CreateFooterAddressCommand request, CancellationToken cancellationToken)
+        public async Task Handle(CreateFooterAddressCommand request, CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            await _repository.CreateAsync(new FooterAddress
+            {
+                Address = request.Address,
+                Description = request.Description,
+                Email = request.Email,
+                Phone = request.Phone,
+            });
         }
     }
 }

@@ -10,11 +10,11 @@ using System.Threading.Tasks;
 
 namespace CarBook.Application.Features.Mediator.Handlers.FeatureHandlers
 {
-    public class CreateFutureCommandHandler : IRequestHandler<CreateFeatureCommand>
+    public class CreateFeatureCommandHandler : IRequestHandler<CreateFeatureCommand>
     {
         private readonly IRepository<Feature> _repository;
 
-        public CreateFutureCommandHandler(IRepository<Feature> repository)
+        public CreateFeatureCommandHandler(IRepository<Feature> repository)
         {
             _repository = repository;
         }

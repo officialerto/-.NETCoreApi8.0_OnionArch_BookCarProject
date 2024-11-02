@@ -1,0 +1,12 @@
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\bin\Debug\net8.0\CarBook.Dto.deps.json
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\bin\Debug\net8.0\CarBook.Dto.dll
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\bin\Debug\net8.0\CarBook.Dto.pdb
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.AssemblyInfoInputs.cache
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.AssemblyInfo.cs
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.csproj.CoreCompileInputs.cache
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.sourcelink.json
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.dll
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\obj\Debug\net8.0\refint\CarBook.Dto.dll
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.pdb
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Dto\obj\Debug\net8.0\ref\CarBook.Dto.dll

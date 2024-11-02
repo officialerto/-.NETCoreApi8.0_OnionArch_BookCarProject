@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ADFC8EB-89A9-4475-BC4A-13968639A684}|Core\\CarBook.Application\\CarBook.Application.csproj|d:\\github\\-.netcoreapi8.0_onionarch_bookcarproject\\carbook\\core\\carbook.application\\features\\mediator\\handlers\\footeraddresshandlers\\createfooteraddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADFC8EB-89A9-4475-BC4A-13968639A684}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\handlers\\footeraddresshandlers\\createfooteraddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73639C1E-38DC-434D-AA76-508B321FEF30}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|d:\\github\\-.netcoreapi8.0_onionarch_bookcarproject\\carbook\\frontends\\carbook.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73639C1E-38DC-434D-AA76-508B321FEF30}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateFooterAddressCommandHandler.cs",
-              "DocumentMoniker": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\FooterAddressHandlers\\CreateFooterAddressCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\FooterAddressHandlers\\CreateFooterAddressCommandHandler.cs",
-              "ToolTip": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\FooterAddressHandlers\\CreateFooterAddressCommandHandler.cs",
-              "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\FooterAddressHandlers\\CreateFooterAddressCommandHandler.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAtwBIAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T19:36:22.559Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "D:\\Github\\-.NETCoreApi8.0_OnionArch_BookCarProject\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T19:42:29.429Z",
               "EditorCaption": ""
             }
           ]
