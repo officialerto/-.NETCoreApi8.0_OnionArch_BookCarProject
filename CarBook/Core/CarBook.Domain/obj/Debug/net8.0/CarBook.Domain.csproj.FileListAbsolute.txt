@@ -1,12 +1,12 @@
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\bin\Debug\net8.0\CarBook.Domain.deps.json
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\bin\Debug\net8.0\CarBook.Domain.dll
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\bin\Debug\net8.0\CarBook.Domain.pdb
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.AssemblyInfoInputs.cache
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.AssemblyInfo.cs
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.csproj.CoreCompileInputs.cache
-D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\bin\Debug\net8.0\CarBook.Domain.deps.json
-D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\bin\Debug\net8.0\CarBook.Domain.dll
-D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\bin\Debug\net8.0\CarBook.Domain.pdb
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.sourcelink.json
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.dll
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\refint\CarBook.Domain.dll
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.pdb
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\ref\CarBook.Domain.dll
-D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.sourcelink.json

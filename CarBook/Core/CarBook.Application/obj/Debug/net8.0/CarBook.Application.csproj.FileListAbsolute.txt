@@ -8,9 +8,9 @@ D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Applicat
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfoInputs.cache
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfo.cs
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.CoreCompileInputs.cache
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.sourcelink.json
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook..F1F8929D.Up2Date
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.dll
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Application\obj\Debug\net8.0\refint\CarBook.Application.dll
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.pdb
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Application\obj\Debug\net8.0\ref\CarBook.Application.dll
-D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.sourcelink.json

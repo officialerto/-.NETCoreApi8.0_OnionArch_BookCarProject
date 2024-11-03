@@ -202,6 +202,8 @@ D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Web
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\bin\Debug\net8.0\CarBook.Dto.dll
+D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\bin\Debug\net8.0\CarBook.Dto.pdb
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.csproj.AssemblyReference.cache
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.GeneratedMSBuildEditorConfig.editorconfig
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.AssemblyInfoInputs.cache
@@ -227,5 +229,3 @@ D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.Web
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.pdb
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.genruntimeconfig.cache
 D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\ref\CarBook.WebUI.dll
-D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\bin\Debug\net8.0\CarBook.Dto.dll
-D:\Github\-.NETCoreApi8.0_OnionArch_BookCarProject\CarBook\Frontends\CarBook.WebUI\bin\Debug\net8.0\CarBook.Dto.pdb
