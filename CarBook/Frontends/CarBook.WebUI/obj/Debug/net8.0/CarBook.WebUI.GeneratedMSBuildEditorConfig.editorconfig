@@ -30,6 +30,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Github/-.NETCoreApi8.0_OnionArch_BookCarProject/CarBook/Frontends/CarBook.WebUI/Views/Blog/BlogDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/-.NETCoreApi8.0_OnionArch_BookCarProject/CarBook/Frontends/CarBook.WebUI/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Github/-.NETCoreApi8.0_OnionArch_BookCarProject/CarBook/Frontends/CarBook.WebUI/Views/Car/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -60,6 +68,30 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Github/-.NETCoreApi8.0_OnionArch_BookCarProject/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_BecomeADriverComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0JlY29tZUFEcml2ZXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/-.NETCoreApi8.0_OnionArch_BookCarProject/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_BlogDetailsCategoryComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxzQ2F0ZWdvcnlDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/-.NETCoreApi8.0_OnionArch_BookCarProject/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_BlogDetailSideBarSearchBoxComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxTaWRlQmFyU2VhcmNoQm94Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/-.NETCoreApi8.0_OnionArch_BookCarProject/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_BlogDetailsMainComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxzTWFpbkNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/-.NETCoreApi8.0_OnionArch_BookCarProject/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_BlogDetailsParagraphComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxzUGFyYWdyYXBoQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/-.NETCoreApi8.0_OnionArch_BookCarProject/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_BlogDetailsRecentBlogsComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxzUmVjZW50QmxvZ3NDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/-.NETCoreApi8.0_OnionArch_BookCarProject/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_BlogDetailsTagCloudComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxzVGFnQ2xvdWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Github/-.NETCoreApi8.0_OnionArch_BookCarProject/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_DefaultCoverUILayoutComponentPartial/Default.cshtml]

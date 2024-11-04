@@ -518,7 +518,7 @@ namespace CarBook.Persistence.Migrations
             modelBuilder.Entity("CarBook.Domain.Entities.CarDescription", b =>
                 {
                     b.HasOne("CarBook.Domain.Entities.Car", "Car")
-                        .WithMany()
+                        .WithMany("CarDescriptions")
                         .HasForeignKey("CarID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -576,6 +576,8 @@ namespace CarBook.Persistence.Migrations
 
             modelBuilder.Entity("CarBook.Domain.Entities.Car", b =>
                 {
+                    b.Navigation("CarDescriptions");
+
                     b.Navigation("CarFeatures");
 
                     b.Navigation("CarPricings");

@@ -11,6 +11,5 @@ namespace CarBook.Application.Interfaces.CarInterfaces
     {
         List<Car> GetCarsListWithBrands();
         List<Car> GetTop5ListWithBrands();
-        List<Car> GetCarsWithPricings();
     }
 }
