@@ -38,6 +38,7 @@ namespace CarBook.WebUI.Controllers
         {
             ViewBag.v1 = "Blogs";
             ViewBag.v2 = "Blog Details";
+            ViewBag.blogid = id;
             return View();
         }
 
